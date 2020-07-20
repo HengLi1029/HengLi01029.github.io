@@ -1,44 +1,46 @@
 <!DOCTYPE html>
-<html lang="en">
-{% include head.html %}
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-<body class="preload">
-    <div class="top"></div>
-    <div class="profile" style="background-image: url({{ site.background }});">
-        <img src="http://www.gravatar.com/avatar/{{ site.gravatar_hash }}?s=140" class="img-circle" />
-        <h3>{{ site.name }}</h3>
-        <p>{{ site.description }}</p>
-        <ul class="social">
-            {% if site.github %}
-            <a type="button" href="http://github.com/{{ site.github }}">
-                <i class="fa fa-github"></i>
-            </a>
-            {% endif %} {% if site.twitter %}
-            <a type="button" href="http://twitter.com/{{ site.twitter }}">
-                <i class="fa fa-twitter"></i>
-            </a>
-            {% endif %} {% if site.linkedin %}
-            <a type="button" href="http://linkedin.com/in/{{ site.linkedin }}">
-                <i class="fa fa-linkedin"></i>
-            </a>
-            {% endif %} {% if site.pinterest %}
-            <a type="button" href="http://pinterest.com/{{ site.pinterest }}">
-                <i class="fa fa-pinterest"></i>
-            </a>
-            {% endif %} {% if site.facebook %}
-            <a type="button" href="http://facebook.com/{{ site.facebook }}">
-                <i class="fa fa-facebook"></i>
-            </a>
-            {% endif %}
-        </ul>
-    </div>
-    <div class="posts">
+  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/libs/fontawesome-5.9.0/css/all.min.css' | relative_url }}" media="screen" type="text/css">
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+  <!-- <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css"> -->
+
+  <!--
+    [if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]
+  -->
+
+  {% seo %}
+
+</head>
+
+<body>
+  <section class="pan-layout">
+    {% include left.html %}
+
+    <section class="pan-layout-overlay"></section>
+
+    <section class="pan-layout-right">
+      {% include header.html %}
+
+      <section class="pan-layout-content">
         {{ content }}
-    </div>
+      </section>
+
+      {% include footer.html %}
+    </section>
+  </section>
+
+  <script type="text/javascript" src="{{ '/assets/libs/jquery-3.4.1.min.js' | relative_url }}"></script>
+  <script type="text/javascript" src="{{ '/assets/libs/jquery-migrate-3.0.1.min.js' | relative_url }}"></script>
+  <script type="text/javascript" src="{{ '/assets/js/panthera-jekyll.js?v=' | append: site.github.build_revision | relative_url }}"></script>
+ 
 </body>
-<script type="text/javascript">
-    window.onload = function(){
-        document.getElementsByTagName("BODY")[0].classList.remove("preload");
-    }
-</script>
 </html>
