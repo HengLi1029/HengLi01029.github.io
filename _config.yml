@@ -9,7 +9,7 @@ defaults:
 title: Heng Li
 subtitle: University of Cincinnati Business Analytics Graduate Student
 
- left_side:
+left_side:
   background_image: "./assets/images/left-background.jpg"
   background_color: "#98FB98"
   close_button_color: "#FFFFFF"
