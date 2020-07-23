@@ -22,7 +22,7 @@ footer:
 # Side Menu Links
 menu:
   - text: About Me
-    link: /resume
+    link: /about_me
     icon: ""
 
   - text: Research & Projects
@@ -34,7 +34,7 @@ menu:
     icon: ""
 
   - text: Business Experience
-    link: /posts
+    link: /Business_Experience
     icon: ""
     
   - text: Contact Me
