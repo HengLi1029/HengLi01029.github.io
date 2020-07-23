@@ -11,7 +11,7 @@ subtitle: University of Cincinnati Business Analytics Graduate Student
 
 left_side:
   background_image: "./assets/images/left-background.jpg"
-  background_color: "#98FB98"
+  background_color: "#000000"
   close_button_color: "#FFFFFF"
   text_color: "#FFFFFF"
   head_shot: "![head_shot](https://raw.githubusercontent.com/HengLi1029/image/master/pic%20for%20markdown.jpg?token=ANL7NAKFXTW3HNPCH6XNNSS7DD2ZG)"
