@@ -13,8 +13,8 @@ left_side:
   background_image: "./assets/images/left-background.jpg"
   background_color: "#F00"
   close_button_color: "#F00"
-  text_color: "#F00"
-  head_shot:"![head_shot](https://raw.githubusercontent.com/HengLi1029/image/master/pic%20for%20markdown.jpg?token=ANL7NAKFXTW3HNPCH6XNNSS7DD2ZG)"
+  text_color: "	#F00"
+  head_shot: "![head_shot](https://raw.githubusercontent.com/HengLi1029/image/master/pic%20for%20markdown.jpg?token=ANL7NAKFXTW3HNPCH6XNNSS7DD2ZG)"
 
 footer:
   copyright_text: "&copy; Heng Li"
