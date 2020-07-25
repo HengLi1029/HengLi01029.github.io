@@ -9,7 +9,7 @@
 ![enter image description here](https://github.com/HengLi1029/HengLi01029.github.io/blob/master/assets/images/2.jpg?raw=true)
 ![enter image description here](https://github.com/HengLi1029/HengLi01029.github.io/blob/master/assets/images/3.jpg?raw=true)
 
->My business was not limited to music education. In 2015,  I started an experimental business project. I initiated Jinan College Musician’s League, which united college musicians and local musicians together. We also organized over 10 music festivals in a year with sponsors like Pepsi Co. China and COFCO Group in Jinan. <
+>My business was not limited to music education. In 2015,  I started an experimental business project. I initiated Jinan College Musician’s League, which united college musicians and local musicians together. We also organized over 10 music festivals in a year with sponsors like Pepsi Co. China and COFCO Group in Jinan. 
 
 ![enter image description here](https://github.com/HengLi1029/HengLi01029.github.io/blob/master/assets/images/4.jpg?raw=true)
 ![enter image description here](https://github.com/HengLi1029/HengLi01029.github.io/blob/master/assets/images/5.jpg?raw=true)
