@@ -3,3 +3,5 @@ My name is Heng Li, I’m currently working for Unique Melody as a Marketing Spe
 
 I’m currently looking for research opportunities in Marketing or Finance fields. My research interests lean more towards strategy making/processing, consumer behavior for marketing. Risk management and asset pricing for finance. 
 
+Please see my <a href="hengli1029.github.io/docs/Heng Li Resume v2.pdf" target="_blank">Resume</a> for more details.
+
