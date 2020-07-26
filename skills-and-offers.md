@@ -4,8 +4,7 @@
 # Research and Project
 
 ## Research on a Dual Problem Solution Strategy under Supply-hub Mode (revising, planning resubmits to International Journal of Production Research)
-
-> **Abstract** 
+>**Abstract** 
 As the supply chain node integrates different suppliers’ component inventories, a supply-hub is facing the problems of limited storage capacity and unallowed stock-out. This article takes the minimum total supply chain costs as the target to solve these two problems. By considering the dual replenishment methods for space constraint and urgent replenishment, it establishes a multi-varieties inventory control model under random demands to get the optimal inventory strategies for different components. Finally, through simulation analysis, this paper finds that changes in the total storage area, lead time for components and holding cost per unit time for components will significantly affect both inventory strategies for different components and total supply chain costs. Increasing unit purchase costs for urgent replenishment has a remarkable effect on total supply chain costs, but the effect is not significant on inventory strategies for different components.
 
 ## Forecasting Stock Returns Using Machine Learning Methods (Capstone Research)
