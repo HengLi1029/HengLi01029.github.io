@@ -8,4 +8,4 @@ My name is Heng Li, I’m currently working for Unique Melody as a Marketing Spe
 
 I’m currently looking for research opportunities/PhD studentship in Marketing. My research interests lean more towards **strategy making/processing, brand management, and consumer behavior**. 
 
-Please see my <a href="hengli1029.github.io/docs/Heng Li Resume v2.pdf" target="_blank">Resume</a> for more details.
+Please see my <a href="hengli1029.github.io/docs/Heng Li Resume v2.pdf" target="_blank">CV</a> for more details.
