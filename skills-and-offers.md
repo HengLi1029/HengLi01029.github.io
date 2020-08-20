@@ -3,7 +3,7 @@
 
 # Research and Project
 
-## Research on a Dual Problem Solution Strategy under Supply-hub Mode (revising, planning resubmits to International Journal of Production Research)
+## Research on a Dual Problem Solution Strategy under Supply-hub Mode (revising, planning resubmit to International Journal of Production Research)
 
 >**Abstract** 
 As the supply chain node integrates different suppliers’ component inventories, a supply-hub is facing the problems of limited storage capacity and unallowed stock-out. This article takes the minimum total supply chain costs as the target to solve these two problems. By considering the dual replenishment methods for space constraint and urgent replenishment, it establishes a multi-varieties inventory control model under random demands to get the optimal inventory strategies for different components. Finally, through simulation analysis, this paper finds that changes in the total storage area, lead time for components and holding cost per unit time for components will significantly affect both inventory strategies for different components and total supply chain costs. Increasing unit purchase costs for urgent replenishment has a remarkable effect on total supply chain costs, but the effect is not significant on inventory strategies for different components.
@@ -32,3 +32,9 @@ There are 33 participants who have taken the survey. 32 of them are interested i
 Most of the data comes from the survey and some supporting data comes from the experience or historical data provided by Unique Melody and Musicteck.com (the main distributer). 
 The project is trying to figure out whether Unique Melody should launch this new product and how many headphones they should make for the first batch. In this project, I will first assume that Unique Melody will launch the MEST IE, then I will calculate what is the optimal supply Unique Melody should make and I will use that number in the tree model to determine whether Unique Melody should use distributors or self-marketing if MEST IE will eventually be launched.
 Please look at the <a href="hengli1029.github.io/docs/UM_Project.pdf" target="_blank">Project Report</a> for more details.
+
+## Other Projects
+
+**<a href="hengli1029.github.io/docs/OffSup project.pdf" target="_blank">OffSup Inc. Sales Predictor</a>**: A Shiny App based on ARIMA model that predict the sales growth with a seasonal pattern. The final model has over 80% prediction accuracy.
+
+**<a href="hengli1029.github.io/docs/Telephoe Marketing.pdf" target="_blank">Predicting the Success Rate of Telephone Marketing</a>**: Combined with the Logistic Regression model and Machine Learning methods to predict the success rate of telephone marketing in the bank industry.
